@@ -23,7 +23,7 @@ gantt
     15天:a2,after a1  , 20d
     
     section 前端開發
-    30天:a3,after a1  , 50d
+    30天:a3,after a2  , 50d
     
     section 後端開發
     30天:a4,after a2  , 50d 
