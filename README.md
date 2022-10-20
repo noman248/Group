@@ -17,7 +17,7 @@
 gantt
     title 甘特圖
     section 專題發想
-    1天:a1, 2022-10-03, 5d
+    5天:a1, 2022-10-03, 5d
     
     section 介面設計
     4天:a2,after a1  , 4d
