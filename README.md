@@ -29,10 +29,10 @@ gantt
     30天:a4,after a2  , 50d 
     
     section 程式測試
-    5天:a5,after a3  , 10d
+    5天:a5,after a4  , 55d
     
     section 系統測試
-    5天:a6,after a4  , 30d
+    5天:a6,after a5  , 60d
     
 ```
 # PERT/CPM
