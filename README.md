@@ -20,19 +20,19 @@ gantt
     5天:a1, 2022-10-03, 5d
     
     section 介面設計
-    4天:a2,after a1  , 4d
+    15天:a2,after a1  , 4d
     
     section 前端開發
-    17天:a3,after a1  , 17d
+    30天:a3,after a1  , 17d
     
     section 後端開發
-    70天:a4,after a2  , 70d 
+    30天:a4,after a2  , 70d 
     
     section 程式測試
-    10天:a5,after a3  , 10d
+    5天:a5,after a3  , 10d
     
     section 系統測試
-    30天:a6,after a4  , 30d
+    5天:a6,after a4  , 30d
     
 ```
 # PERT/CPM
