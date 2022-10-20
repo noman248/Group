@@ -15,4 +15,5 @@
 # 甘特圖
 
 # PERT/CPM
-
+![PERT/CPM](小組作業1.jpg "PERT")
+***
