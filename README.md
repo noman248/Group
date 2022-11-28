@@ -36,5 +36,5 @@ gantt
     
 ```
 # PERT/CPM
-![PERT/CPM](小組作業1.jpg "PERT")
+![PERT/CPM](圖1.jpg "PERT")
 ***
