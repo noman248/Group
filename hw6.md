@@ -1,2 +1,2 @@
 # ERD
-![ERD](ERD.jpg "ERD")
+![ERD](ERD.jpg )
