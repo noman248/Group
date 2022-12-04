@@ -14,4 +14,4 @@
 * 維護性 : 定期維護遊戲
 
 # FDD
-![FDD](FDD1.png "FDD")
+![FDD](FDD1.g "FDD")
